@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\01_source\\SingletonPatern\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|c:\\work\\01_source\\singletonpatern\\singleton\\testeasyfeature\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|solutionrelative:testeasyfeature\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|c:\\work\\01_source\\singletonpatern\\singleton\\testeasyfeature\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|solutionrelative:testeasyfeature\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|c:\\work\\01_source\\singletonpatern\\singleton\\testeasyfeature\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|solutionrelative:testeasyfeature\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|c:\\work\\01_source\\singletonpatern\\singleton\\testeasyfeature\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB0A81-0775-4F5C-87D8-420899E22B2D}|TestEasyFeature\\TestEasyFeature.csproj|solutionrelative:testeasyfeature\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|C:\\work\\01_source\\SingletonPatern\\Singleton\\singleton\\bviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|solutionrelative:singleton\\bviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|C:\\work\\01_source\\SingletonPatern\\Singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|C:\\work\\01_source\\SingletonPatern\\Singleton\\singleton\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|solutionrelative:singleton\\aviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|C:\\work\\01_source\\SingletonPatern\\Singleton\\singleton\\settinga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|solutionrelative:singleton\\settinga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|C:\\work\\01_source\\SingletonPatern\\Singleton\\singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|solutionrelative:singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|C:\\work\\01_source\\SingletonPatern\\Singleton\\singleton\\checktimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|solutionrelative:singleton\\checktimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|C:\\work\\01_source\\SingletonPatern\\Singleton\\singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97B32A57-E57A-4868-B28B-C56F93499903}|Singleton\\Singleton.csproj|solutionrelative:singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\TestBase.cs",
+              "RelativeDocumentMoniker": "TestEasyFeature\\TestBase.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\TestBase.cs",
+              "RelativeToolTip": "TestEasyFeature\\TestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:28:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "init.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\init.cs",
+              "RelativeDocumentMoniker": "TestEasyFeature\\init.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\init.cs",
+              "RelativeToolTip": "TestEasyFeature\\init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:26:16.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest2.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\UnitTest2.cs",
+              "RelativeDocumentMoniker": "TestEasyFeature\\UnitTest2.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\UnitTest2.cs",
+              "RelativeToolTip": "TestEasyFeature\\UnitTest2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:24:59.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestEasyFeature\\UnitTest1.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\TestEasyFeature\\UnitTest1.cs",
+              "RelativeToolTip": "TestEasyFeature\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:17:24.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BViewModel.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\BViewModel.cs",
+              "RelativeDocumentMoniker": "Singleton\\BViewModel.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\BViewModel.cs",
+              "RelativeToolTip": "Singleton\\BViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:16:00.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AViewModel.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\AViewModel.cs",
+              "RelativeDocumentMoniker": "Singleton\\AViewModel.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\AViewModel.cs",
+              "RelativeToolTip": "Singleton\\AViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:14:58.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingA.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\SettingA.cs",
+              "RelativeDocumentMoniker": "Singleton\\SettingA.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\SettingA.cs",
+              "RelativeToolTip": "Singleton\\SettingA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:13:57.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:10:15.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\Form1.cs",
+              "RelativeDocumentMoniker": "Singleton\\Form1.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\Form1.cs",
+              "RelativeToolTip": "Singleton\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:06:00.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckTimer.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\CheckTimer.cs",
+              "RelativeDocumentMoniker": "Singleton\\CheckTimer.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\CheckTimer.cs",
+              "RelativeToolTip": "Singleton\\CheckTimer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:59:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\Form1.cs",
+              "RelativeDocumentMoniker": "Singleton\\Form1.cs",
+              "ToolTip": "C:\\work\\01_source\\SingletonPatern\\Singleton\\Singleton\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Singleton\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:58:33.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

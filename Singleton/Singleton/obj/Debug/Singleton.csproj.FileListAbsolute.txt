@@ -1,0 +1,10 @@
+C:\work\01_source\SingletonPatern\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\work\01_source\SingletonPatern\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\work\01_source\SingletonPatern\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\work\01_source\SingletonPatern\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\work\01_source\SingletonPatern\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+C:\work\01_source\SingletonPatern\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\work\01_source\SingletonPatern\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.cache
+C:\work\01_source\SingletonPatern\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\work\01_source\SingletonPatern\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\work\01_source\SingletonPatern\Singleton\Singleton\obj\Debug\Singleton.pdb
